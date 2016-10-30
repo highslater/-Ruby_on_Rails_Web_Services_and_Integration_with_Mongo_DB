@@ -1,4 +1,4 @@
-```console
+```bash
 
 irb(main):001:0> require './gridfs_loader.rb'  
 => true  
